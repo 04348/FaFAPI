@@ -1,13 +1,13 @@
 <p align="left"><font size="5">Bienvenue !<br /></font>
 <font size="4">
-Ce site est encore en construction, mais il est quand même utilisable en l'état !<br />
+Le site est encore partiellement fini, mais fonctionne déjà en l'état !<br />
 <br />
 Il reste quelques points à travailler, si vous rencontrez des problèmes ou que vous avez des suggestion, vous pouvez me mp in-game (Grenbur).<br />
 <br />
-TODO :<br />
-&nbsp;Refaire les images pour la randonnée de guilde, pour l'instant il s'agit d'un honteux sript qui les a subtilisées au site de la guilde herozion.<br />
-&nbsp;Recoder le timer ou au moins le traduire, pour l'instant il ne s'agit que d'une version modifié de celui de Dulfy.<br />
-&nbsp;Revoir le thème général, il reste des choses mals agencées.<br />
-&nbsp;Remplir la page d'accueil !<br />
+Le site est héberger sur les serveur de Google app Engine, on a une bande-passante limitée à 1Go par jour, c'est largement suffisant (ça représente quand même quelques million d'utilisateur par jour ^^) mais pour éviter de trop consommer j'héberge le maximum de donnée par d'autres moyen !
+<br />
+Reste encore à faire :<br />
+&nbsp;Refaire les images pour la randonnée de guilde, pour l'instant il s'agit d'un honteux sript qui les a subtilisées au site de la guilde herozion. (je me suis déjà occupé des images des autres missions de guilde) <br />
+&nbsp;Recoder le timer ou au moins le traduire, pour l'instant il ne s'agit que d'une version modifié de celui de Dulfy et hébergé sur JSFiddle.<br />
 <br />
 </font></p>
